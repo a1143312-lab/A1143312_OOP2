@@ -5,10 +5,13 @@
 ![執行結果](./Screenshots/result.jpg)
 
 ##與AI對話紀錄
+
 ![對話1](./Screenshots/336522.jpg)
 ![對話2](./Screenshots/336523.jpg)
 ![對話3](./Screenshots/336524.jpg)
 ![對話4](./Screenshots/336526.jpg)
+
+
 
 ##AI給我答案和我自己寫不同的地方
 ![對話3](./Screenshots/336524.jpg)
